@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Letter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\LevelController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Pause.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Sounds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\SoundTurn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\utilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\AnimattionWord.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Buttons.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Consts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Controller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Dict.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Exit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\GameTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Help.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\LevelController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Pause.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Sounds.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\SoundTurn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\AnimattionWord.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Buttons.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Controller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Dict.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Exit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\GameTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Help.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\Letter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\lines.ttf" />
+    <Font Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\kirbyss.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\mainBK.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\nextLevel.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\soundOnT.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\startT.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\finnishShow.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\form.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\gameScreen.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\gameScreen1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\helpPage.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\move.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\newLevel.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\press.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\tada.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\finnish.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\foundWord.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\3charLen.txt" />
+    <Text Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\4charLen.txt" />
+    <Text Include="..\..\..\..\פרוייקט סמס ב שנה ב\wordProject\wordProject\5charLen.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+</Project>
